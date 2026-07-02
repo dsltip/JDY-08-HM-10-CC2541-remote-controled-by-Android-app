@@ -1,0 +1,1 @@
+cc_loadr_my 4 SimpleBLEPeripheral.bin 0
