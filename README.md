@@ -6,3 +6,7 @@ Later I made Android App to send commands to JDY-08.
 App is connecting to JDY-08(by MAC addr) and writing BLE characteristic to open/close my car.
 
 ![Screen Shot](JDY-08.jpg)
+
+Main files:
+CC2541 frimware: SimpleBLEPeripheral.bin
+Android App: car_lock.apk
