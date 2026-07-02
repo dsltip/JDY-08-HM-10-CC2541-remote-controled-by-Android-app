@@ -173,7 +173,7 @@ public class MainActivity extends AppCompatActivity{
     private void uploadButtonClicked(){
 
         /*http2 task = new http2();
-        task.navURL = "http://d-sl.ru/carvolt.php?s=" + TextViewLog.getText().toString();
+        task.navURL = "http://xxx.ru/carvolt.php?s=" + TextViewLog.getText().toString();
         task.mContext = this;
         task.tvl = IDTextView;
         task.execute();*/
