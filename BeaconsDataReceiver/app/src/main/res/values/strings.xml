@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CarLock</string>
+    <string name="ble_not_supported">Bluetooth not supported</string>
+    <string name="error_bluetooth_not_supported">Bluetooth not supported</string>
+    <string name="id">ID</string>
+    <string name="start">DISCOVER</string>
+    <string name="stop">STOP</string>
+    <string name="upload">UPLOAD</string>
+    <string name="connect">CONNECT</string>
+    <string name="disconnect">DISCONNECT</string>
+    <string name="lock">LOCK</string>
+    <string name="unlock">UNLOCK</string>
+</resources>
